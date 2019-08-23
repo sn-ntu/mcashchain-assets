@@ -1,0 +1,14 @@
+{
+  "address": "MX8TnuGSnrpcYUnTxrz8v9WHxf188mDRVb",
+  "name": "MidasPioneerMembership",
+  "symbol": "MPION",
+  "source": {
+    "github": "https://github.com/MidasCore/mcashchain-assets/"
+  }
+  "social": {
+    "facebook": "",
+    "telegram": "",
+    "twitter": ""
+  }
+  "assets_uri": "https://raw.githubusercontent.com/sn-ntu/mcashchain-assets/master/tokens/mainnet/M721-MPION/${token_id}.json"
+}
