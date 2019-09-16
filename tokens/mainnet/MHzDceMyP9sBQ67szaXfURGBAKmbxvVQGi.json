@@ -1,0 +1,17 @@
+{
+  "address": "MHzDceMyP9sBQ67szaXfURGBAKmbxvVQGi",
+  "name": "MasphereNFT",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/mainnet/MHzDceMyP9sBQ67szaXfURGBAKmbxvVQGi.png",
+  "description": "",
+  "symbol": "MASPHERE",
+  "source": {
+    "github": "https://github.com/MidasCore/mcashchain-assets/"
+  },
+  "social": {
+    "facebook": "",
+    "telegram": "https://t.me/MAS_phere",
+    "twitter": "https://twitter.com/mas_phere",
+    "medium": "https://medium.com/masphere"
+  },
+  "assets_uri": "https://raw.githubusercontent.com/sn-ntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/${token_id}.json"
+}
