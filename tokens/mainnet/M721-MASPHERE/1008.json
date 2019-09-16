@@ -2,6 +2,6 @@
   "id": "1008",
   "name": "Gruyotis",
   "description": "Rank Common. Weather Moist. Resource 50750 MCASH",
-  "image": "https://raw.githubusercontent.com/snntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/1008.png",
-  "metadata": "{\"ID\":\"1008\",\"Name\":\"Gruyotis\",\"Rank\":\"Common\",\"EarlyBird\":\"1.50%\",\"MCASH\":\"50750\",\"GMT_sum\":\"21.934\",\"Weather\":\"Moist\",\"OriginalBuyer\":\"0x0826601f28b691ceea2be05ec1c922ea0ec2d82d\",\"Tier\":\"1\",\"Type\":\"1\",\"Seed2\":\"104.50%\",\"GMT_tree\":\"15.675\",\"Seed3\":\"103.40%\",\"GMT_mineral\":\"5.225\",\"Description\":\"Rank Common. Weather Moist. Resource 50750 MCASH\",\"Image\":\"https://raw.githubusercontent.com/snntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/1008.png\"}"
+  "image": "https://raw.githubusercontent.com/sn-ntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/1008.png",
+  "metadata": "{\"ID\":\"1008\",\"Name\":\"Gruyotis\",\"Rank\":\"Common\",\"EarlyBird\":\"1.50%\",\"MCASH\":\"50750\",\"GMT_sum\":\"21.934\",\"Weather\":\"Moist\",\"OriginalBuyer\":\"0x0826601f28b691ceea2be05ec1c922ea0ec2d82d\",\"Tier\":\"1\",\"Type\":\"1\",\"Seed2\":\"104.50%\",\"GMT_tree\":\"15.675\",\"Seed3\":\"103.40%\",\"GMT_mineral\":\"5.225\",\"Description\":\"Rank Common. Weather Moist. Resource 50750 MCASH\",\"Image\":\"https://raw.githubusercontent.com/sn-ntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/1008.png\"}"
 }

@@ -2,6 +2,6 @@
   "id": "2005",
   "name": "Baliv",
   "description": "Rank Uncommon. Weather Dry. Resource 113300 MCASH",
-  "image": "https://raw.githubusercontent.com/snntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/2005.png",
-  "metadata": "{\"ID\":\"2005\",\"Name\":\"Baliv\",\"Rank\":\"Uncommon\",\"EarlyBird\":\"3.00%\",\"MCASH\":\"113300\",\"GMT_sum\":\"22.177\",\"Weather\":\"Dry\",\"OriginalBuyer\":\"0xba2e77a3c23c63ba63d3948080b594a1af40733f\",\"Tier\":\"2\",\"Type\":\"2\",\"Seed2\":\"106.40%\",\"GMT_tree\":\"10.64\",\"Seed3\":\"89.70%\",\"GMT_mineral\":\"10.64\",\"Description\":\"Rank Uncommon. Weather Dry. Resource 113300 MCASH\",\"Image\":\"https://raw.githubusercontent.com/snntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/2005.png\"}"
+  "image": "https://raw.githubusercontent.com/sn-ntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/2005.png",
+  "metadata": "{\"ID\":\"2005\",\"Name\":\"Baliv\",\"Rank\":\"Uncommon\",\"EarlyBird\":\"3.00%\",\"MCASH\":\"113300\",\"GMT_sum\":\"22.177\",\"Weather\":\"Dry\",\"OriginalBuyer\":\"0xba2e77a3c23c63ba63d3948080b594a1af40733f\",\"Tier\":\"2\",\"Type\":\"2\",\"Seed2\":\"106.40%\",\"GMT_tree\":\"10.64\",\"Seed3\":\"89.70%\",\"GMT_mineral\":\"10.64\",\"Description\":\"Rank Uncommon. Weather Dry. Resource 113300 MCASH\",\"Image\":\"https://raw.githubusercontent.com/sn-ntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/2005.png\"}"
 }

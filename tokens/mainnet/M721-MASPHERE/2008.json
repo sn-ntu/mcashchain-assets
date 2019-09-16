@@ -2,6 +2,6 @@
   "id": "2008",
   "name": "Gaolea",
   "description": "Rank Uncommon. Weather Dry. Resource 111650 MCASH",
-  "image": "https://raw.githubusercontent.com/snntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/2008.png",
-  "metadata": "{\"ID\":\"2008\",\"Name\":\"Gaolea\",\"Rank\":\"Uncommon\",\"EarlyBird\":\"1.50%\",\"MCASH\":\"111650\",\"GMT_sum\":\"22.887\",\"Weather\":\"Dry\",\"OriginalBuyer\":\"0x6ca4bab0067324a72557ea39288efbaa62151f69\",\"Tier\":\"2\",\"Type\":\"2\",\"Seed2\":\"110.10%\",\"GMT_tree\":\"11.01\",\"Seed3\":\"86.70%\",\"GMT_mineral\":\"11.01\",\"Description\":\"Rank Uncommon. Weather Dry. Resource 111650 MCASH\",\"Image\":\"https://raw.githubusercontent.com/snntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/2008.png\"}"
+  "image": "https://raw.githubusercontent.com/sn-ntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/2008.png",
+  "metadata": "{\"ID\":\"2008\",\"Name\":\"Gaolea\",\"Rank\":\"Uncommon\",\"EarlyBird\":\"1.50%\",\"MCASH\":\"111650\",\"GMT_sum\":\"22.887\",\"Weather\":\"Dry\",\"OriginalBuyer\":\"0x6ca4bab0067324a72557ea39288efbaa62151f69\",\"Tier\":\"2\",\"Type\":\"2\",\"Seed2\":\"110.10%\",\"GMT_tree\":\"11.01\",\"Seed3\":\"86.70%\",\"GMT_mineral\":\"11.01\",\"Description\":\"Rank Uncommon. Weather Dry. Resource 111650 MCASH\",\"Image\":\"https://raw.githubusercontent.com/sn-ntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/2008.png\"}"
 }

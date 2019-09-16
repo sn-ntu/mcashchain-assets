@@ -2,6 +2,6 @@
   "id": "2002",
   "name": "Chongophus",
   "description": "Rank Uncommon. Weather Snow. Resource 114950 MCASH",
-  "image": "https://raw.githubusercontent.com/snntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/2002.png",
-  "metadata": "{\"ID\":\"2002\",\"Name\":\"Chongophus\",\"Rank\":\"Uncommon\",\"EarlyBird\":\"4.50%\",\"MCASH\":\"114950\",\"GMT_sum\":\"21.932\",\"Weather\":\"Snow\",\"OriginalBuyer\":\"0x48fc4de62c0864e33ab902e614bcdc877dfc0d3a\",\"Tier\":\"2\",\"Type\":\"4\",\"Seed2\":\"104.10%\",\"GMT_tree\":\"10.41\",\"Seed3\":\"111.20%\",\"GMT_mineral\":\"10.41\",\"Description\":\"Rank Uncommon. Weather Snow. Resource 114950 MCASH\",\"Image\":\"https://raw.githubusercontent.com/snntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/2002.png\"}"
+  "image": "https://raw.githubusercontent.com/sn-ntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/2002.png",
+  "metadata": "{\"ID\":\"2002\",\"Name\":\"Chongophus\",\"Rank\":\"Uncommon\",\"EarlyBird\":\"4.50%\",\"MCASH\":\"114950\",\"GMT_sum\":\"21.932\",\"Weather\":\"Snow\",\"OriginalBuyer\":\"0x48fc4de62c0864e33ab902e614bcdc877dfc0d3a\",\"Tier\":\"2\",\"Type\":\"4\",\"Seed2\":\"104.10%\",\"GMT_tree\":\"10.41\",\"Seed3\":\"111.20%\",\"GMT_mineral\":\"10.41\",\"Description\":\"Rank Uncommon. Weather Snow. Resource 114950 MCASH\",\"Image\":\"https://raw.githubusercontent.com/sn-ntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/2002.png\"}"
 }

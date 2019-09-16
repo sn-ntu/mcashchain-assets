@@ -2,6 +2,6 @@
   "id": "1006",
   "name": "Pairia",
   "description": "Rank Common. Weather Snow. Resource 51250 MCASH",
-  "image": "https://raw.githubusercontent.com/snntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/1006.png",
-  "metadata": "{\"ID\":\"1006\",\"Name\":\"Pairia\",\"Rank\":\"Common\",\"EarlyBird\":\"2.50%\",\"MCASH\":\"51250\",\"GMT_sum\":\"22.008\",\"Weather\":\"Snow\",\"OriginalBuyer\":\"0x9ebe40ec3b2e5853bebdd8f59e4e8acdbf941f1f\",\"Tier\":\"1\",\"Type\":\"4\",\"Seed2\":\"105.70%\",\"GMT_tree\":\"10.57\",\"Seed3\":\"86.80%\",\"GMT_mineral\":\"10.57\",\"Description\":\"Rank Common. Weather Snow. Resource 51250 MCASH\",\"Image\":\"https://raw.githubusercontent.com/snntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/1006.png\"}"
+  "image": "https://raw.githubusercontent.com/sn-ntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/1006.png",
+  "metadata": "{\"ID\":\"1006\",\"Name\":\"Pairia\",\"Rank\":\"Common\",\"EarlyBird\":\"2.50%\",\"MCASH\":\"51250\",\"GMT_sum\":\"22.008\",\"Weather\":\"Snow\",\"OriginalBuyer\":\"0x9ebe40ec3b2e5853bebdd8f59e4e8acdbf941f1f\",\"Tier\":\"1\",\"Type\":\"4\",\"Seed2\":\"105.70%\",\"GMT_tree\":\"10.57\",\"Seed3\":\"86.80%\",\"GMT_mineral\":\"10.57\",\"Description\":\"Rank Common. Weather Snow. Resource 51250 MCASH\",\"Image\":\"https://raw.githubusercontent.com/sn-ntu/mcashchain-assets/master/tokens/mainnet/M721-MASPHERE/1006.png\"}"
 }
