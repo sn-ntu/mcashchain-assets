@@ -1,7 +1,7 @@
 {
   "id": 26,
   "name": "Midas Jedi",
-  "description": "truongdbn@gmail.com",
-  "image": "https://mcash.network/images/teams/Brian.png",
-  "metadata": "{\"midas_id\":26,\"email\":\"truongdbn@gmail.com\",\"eth_wallet\":\"0xfe7e62cf2040035d77a4af525e40a98d31729a35\",\"mcash_wallet\":\"MX6oGc8QhBdP932R2GdPH4i4MGJzUo942S\",\"title\":\"Midas Jedi\",\"image\":\"https://mcash.network/images/teams/Brian.png\"}\n"
+  "description": "Brian_Do (tr**@g**.com)",
+  "image": "https://m721.midasprotocol.com/mpion/26.png",
+  "metadata": "{\"id\":26,\"rank\":\"Midas Jedi\",\"email\":\"tr**@g**.com\",\"pioneerWallet\":\"0xFE7E62cF2040035d77a4af525E40A98d31729a35\"}"
 }
