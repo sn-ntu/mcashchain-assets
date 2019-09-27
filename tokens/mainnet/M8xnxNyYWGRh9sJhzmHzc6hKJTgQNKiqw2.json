@@ -1,0 +1,16 @@
+{
+  "address": "M8xnxNyYWGRh9sJhzmHzc6hKJTgQNKiqw2",
+  "name": "BinhGiaMonNFT",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/mainnet/M8xnxNyYWGRh9sJhzmHzc6hKJTgQNKiqw2.png",
+  "description": "",
+  "symbol": "BGM",
+  "source": {
+    "github": "https://github.com/MidasCore/mcashchain-assets/"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/groups/binhphapungdung",
+    "telegram": "",
+    "twitter": ""
+  },
+  "assets_uri": "https://raw.githubusercontent.com/sn-ntu/mcashchain-assets/master/tokens/mainnet/M721-BGM/${token_id}.json"
+}
